@@ -30,8 +30,8 @@ Users should be able to:
 ![](./images/Screenshot2.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/responsive-blogr-landing-page-gGmUNPNRd)
+- Live Site URL: [live site URL here](https://blogr-landing-page-90d.pages.dev/)
 
 ## My process
 
